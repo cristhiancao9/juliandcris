@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import "../src/components/Card.css";
 import "./components/style.css";
