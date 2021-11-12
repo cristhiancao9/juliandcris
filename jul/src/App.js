@@ -9,10 +9,10 @@ function App() {
   return (
     <div className="App">
       <div>
-        <p className="titulo">Creemos un lindo recuerdo de nuestro amor</p>
+        <Starts></Starts>
       </div>
       <div>
-        <Starts></Starts>
+        <p className="titulo">Creemos un lindo recuerdo de nuestro amor</p>
       </div>
       <div className="main">
         {data.home.map((e, i) => (
